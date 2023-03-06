@@ -1,2 +1,3 @@
-# internet-banking-application-repo
-This repository is used for the project of Internet banking application and website 
+# Internet Banking Application and Website
+Internet banking makes it quite convenient to carry out transactional activities like transfer of funds, payment of bills, etc. this means, no longer having to wait in queues for bill payments or having to safely keep receipts of bill payments, which are also perishable. 
+Banking App means any application provided by us which can be downloaded from a software application distributor(s) and which can be used for authentication purposes as required when making Transactions, to access banking services or such other uses as we may designate from time to time.
